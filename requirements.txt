@@ -1,0 +1,11 @@
+# This file lists the Python packages required to run the ONE2U project.
+# Use 'pip install -r requirements.txt' to install them.
+
+# The core library for interacting with Ethereum-compatible blockchains.
+web3==6.12.0
+
+# A popular library for making HTTP requests, used here to notify the relayer.
+requests==2.31.0
+
+# A utility to read key-value pairs from a .env file and set them as environment variables.
+python-dotenv==1.0.1
