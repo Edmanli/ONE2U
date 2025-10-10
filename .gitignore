@@ -1,1 +1,1 @@
-"__pycache__/\n*.pyc\nvenv/\n"
+"__pycache__/\n*.pyc\nvenv/\n\n# IDEs\n.idea/\n\n# Environment\n.env\n"
